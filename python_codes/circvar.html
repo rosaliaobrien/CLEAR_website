@@ -1,0 +1,11 @@
+var circle = L.circle(gid28257, {
+color: 'red',
+fillOpacity: 0,
+opacity: 10,
+radius:6.48}).addTo(map);circle.bindPopup('gid#28257: ' + '<a href="bio_pages/GN2_28257.html" target="_blank">BIO PAGE</a>')
+circle.on('mouseover', function (e) {circlegid='28257';
+document.getElementById('circle_tracker').innerHTML=circlegid});
+circle.on('mouseout', function (e) {
+circlegid='Move cursor over object';
+document.getElementById('circle_tracker').innerHTML=circlegid
+});
