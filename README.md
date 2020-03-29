@@ -8,13 +8,19 @@ NOTE: To view documentation on scripts, refer to GN1 (aka all GN1 python scripts
 ## Navigating CLEAR Website GitHub:
 
 ### python_codes
-Contains all python codes used to ease process of website creation.\
+Contains all python codes used to ease process of website creation.  
+Eazy_plot_generator.ipynb - Creates EAZY plot's for bio pages  
+bio_page_gen.ipynb - Creates bio pages (HTML files)  
+create_list_gids.ipynb - Outputs long string to be copy & pasted into the home page HTML file for the search bar  
+find_size_object_cutouts.ipynb - Finds the sizes of the object postage stamps on the bio pages  
+print_circle_info.py - Scripts for printing circle markers for Leaflet maps  
+print_circles.ipynb - Notebook tutorial on printing circle markers
 
 
 ### website_data
 Has data used in scripts.
 
-## Navigating the website
+## Navigating the CLEAR Website folders:
 The website contains the following folders:
 1. all_png - Contains all png's (for bio pages) except the EAZY plots and the object cutouts
 2. cutouts - Contains object cutouts (or "postage stamps") for the bio pages
