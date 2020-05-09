@@ -9,12 +9,12 @@ IMPORTANT: To view documentation on the HTML files for the subfield pages, refer
 
 ### python_codes
 Contains all python codes used to ease process of website creation.  
-Eazy_plot_generator.ipynb - Creates EAZY plot's for bio pages  
-bio_page_gen.ipynb - Creates bio pages (HTML files)  
-create_list_gids.ipynb - Outputs long string to be copy & pasted into the home page HTML file for the search bar  
-find_size_object_cutouts.ipynb - Finds the sizes of the object postage stamps on the bio pages  
-print_circle_info.py - Scripts for printing circle markers for Leaflet maps  
-print_circles.ipynb - Notebook tutorial on printing circle markers
+1. Eazy_plot_generator.ipynb - Creates EAZY plot's for bio pages  
+2. bio_page_gen.ipynb - Creates bio pages (HTML files)  
+3. create_list_gids.ipynb - Outputs long string to be copy & pasted into the home page HTML file for the search bar  
+4. find_size_object_cutouts.ipynb - Finds the sizes of the object postage stamps on the bio pages  
+5. print_circle_info.py - Scripts for printing circle markers for Leaflet maps  
+6. print_circles.ipynb - Notebook tutorial on printing circle markers
 
 
 ### website_data
