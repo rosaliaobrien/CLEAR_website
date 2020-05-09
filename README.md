@@ -3,9 +3,9 @@
 All code associated with the creation of the CLEAR website (http://people.physics.tamu.edu/obrienr2434/).
 In collaboration with Prof. Casey Papovich and Vince Estrada-Carpenter.
 
-NOTE: To view documentation on scripts, refer to GN1 (aka all GN1 python scripts and HTML scripts are commented while the other subfields are not)
+IMPORTANT: To view documentation on the HTML files for the subfield pages, refer to GN1.html (not GN1c.html). If it isn't commented thouroughly enough, feel free to email me :)
 
-## Navigating CLEAR Website GitHub:
+## Navigating GitHub:
 
 ### python_codes
 Contains all python codes used to ease process of website creation.  
@@ -21,6 +21,7 @@ print_circles.ipynb - Notebook tutorial on printing circle markers
 Has data used in scripts.
 
 ## Navigating the CLEAR Website folders:
+
 The website contains the following folders:
 1. all_png - Contains all png's (for bio pages) except the EAZY plots and the object cutouts
 2. cutouts - Contains object cutouts (or "postage stamps") for the bio pages
